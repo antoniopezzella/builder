@@ -2481,7 +2481,7 @@ __metadata:
     eslint: ^8.12.0
     eslint-plugin-unused-imports: ^2.0.0
     typescript: ^4.8.4
-    zod: ^3.20.2
+    zod: ^4.6.6
   languageName: unknown
   linkType: soft
 
@@ -5109,10 +5109,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/env@npm:12.3.4":
-  version: 12.3.4
-  resolution: "@next/env@npm:12.3.4"
-  checksum: daa3fc11efd1344c503eab41311a0e503ba7fd08607eeb3dc571036a6211eb37959cc4ed48b71dcc411cc214e7623ffd02411080aad3e09dc6a1192d5b256e60
+"@next/env@npm:12.3.7":
+  version: 12.3.7
+  resolution: "@next/env@npm:12.3.7"
+  checksum: 192456125a9fd8a201eb58ded7d18c7f258bba0f34712f3e8d907a1ff406f44fdaf921e8c083ccdec161f40fad780d3fd1fe670403a33f446bae5a2dc0773d84
   languageName: node
   linkType: hard
 
@@ -26987,10 +26987,10 @@ __metadata:
   linkType: hard
 
 "next@npm:^12.2.5":
-  version: 12.3.4
-  resolution: "next@npm:12.3.4"
+  version: 12.3.7
+  resolution: "next@npm:12.3.7"
   dependencies:
-    "@next/env": 12.3.4
+    "@next/env": 12.3.7
     "@next/swc-android-arm-eabi": 12.3.4
     "@next/swc-android-arm64": 12.3.4
     "@next/swc-darwin-arm64": 12.3.4
@@ -27051,7 +27051,7 @@ __metadata:
       optional: true
   bin:
     next: dist/bin/next
-  checksum: d96fc4f5bcd5a630d74111519f4820dcbd75dddf16c6d00d2167bd3cb8d74965d46d83c8e5ec301bf999013c7d96f1bfff9424f0221317d68b594c4d01f5825e
+  checksum: e209d68013e05c79323414218911c4ce42ff9243ee46f11321c4a641b9cf908aa6c4f8a7b51656704f3d7b8d1c4a2aacb50ed357be9d836529fbbe977adf64b6
   languageName: node
   linkType: hard
 
@@ -39281,10 +39281,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zod@npm:^3.17.3, zod@npm:^3.20.2, zod@npm:^3.21.4":
+"zod@npm:^3.17.3, zod@npm:^3.21.4":
   version: 3.21.4
   resolution: "zod@npm:3.21.4"
   checksum: f185ba87342ff16f7a06686767c2b2a7af41110c7edf7c1974095d8db7a73792696bcb4a00853de0d2edeb34a5b2ea6a55871bc864227dace682a0a28de33e1f
+  languageName: node
+  linkType: hard
+
+"zod@npm:^4.6.6":
+  version: 4.6.6
+  resolution: "zod@npm:4.6.6"
+  checksum: 9274ef2492f25549ade182f5142dff1093c7a9578152eb91a18d891f0b4a86445ac1b2dde37f457e749c1f8fba32f708a733c39017cf51a3bf18aebf294f5db6
   languageName: node
   linkType: hard
 

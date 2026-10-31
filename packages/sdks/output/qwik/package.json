@@ -31,7 +31,7 @@
     "@builder.io/qwik": "^1.0.0",
     "@types/node": "latest",
     "typescript": "^4",
-    "vite": "^3.0.4"
+    "vite": "^8.3.5"
   },
   "peerDependencies": {
     "@builder.io/qwik": ">=1.0.0"
