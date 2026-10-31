@@ -2481,7 +2481,7 @@ __metadata:
     eslint: ^8.12.0
     eslint-plugin-unused-imports: ^2.0.0
     typescript: ^4.8.4
-    zod: ^3.20.2
+    zod: ^4.6.6
   languageName: unknown
   linkType: soft
 
@@ -39281,10 +39281,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zod@npm:^3.17.3, zod@npm:^3.20.2, zod@npm:^3.21.4":
+"zod@npm:^3.17.3, zod@npm:^3.21.4":
   version: 3.21.4
   resolution: "zod@npm:3.21.4"
   checksum: f185ba87342ff16f7a06686767c2b2a7af41110c7edf7c1974095d8db7a73792696bcb4a00853de0d2edeb34a5b2ea6a55871bc864227dace682a0a28de33e1f
+  languageName: node
+  linkType: hard
+
+"zod@npm:^4.6.6":
+  version: 4.6.6
+  resolution: "zod@npm:4.6.6"
+  checksum: 9274ef2492f25549ade182f5142dff1093c7a9578152eb91a18d891f0b4a86445ac1b2dde37f457e749c1f8fba32f708a733c39017cf51a3bf18aebf294f5db6
   languageName: node
   linkType: hard
 
